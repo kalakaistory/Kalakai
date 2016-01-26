@@ -1,5 +1,4 @@
 #toc-outer {
-  width:650px;
   font:normal 11px/12px Arial,Sans-Serif;
   color:#999;
   text-align:left;
@@ -40,13 +39,13 @@
   line-height:28px !important;
   height:28px;
   overflow:hidden;
-  color:#ccc;
+  color:#3582D0;
   text-transform:none;
   text-shadow:0px 1px 0px black;
   border-bottom:1px solid #222;
 }
 .itemposts h6 a {
-  color:#ccc !important;
+  color:#3582D0 !important;
   font-family: 'Lora', serif;
   text-decoration:none;
 }
