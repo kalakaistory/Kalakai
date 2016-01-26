@@ -14,7 +14,7 @@ var postsnum = 0; // Start the first page
 var actualpage = 1; // Starting value of the current page (it will change if you click the pagination).
 
 // This is the container template that will be used to insert the posts template, pagination and the posts count
-document.write('<div id="toc-outer"><div id="results"></div><div id="itempager" style="position:relative;"><div id="pagination"></div><div id="totalposts"></div><a title="Borneo Explorer" style="display:block!important;visibility:visible!important;opacity:1!important;position:absolute;bottom:10px;right:14px;font:normal bold 8px Arial,Sans-Serif!important;color:#666;text-shadow:0 1px 0 rgba(255,255,255,.1);text-decoration:none;" href="http://kalakaistory.blogspot.com" target="_blank">&#9658;KS</a></div></div>');
+document.write('<div id="toc-outer"><div id="results"></div><div id="itempager" style="position:relative;"><div id="pagination"></div><div id="totalposts"></div><a title="Kalakai Story" style="display:block!important;visibility:visible!important;opacity:1!important;position:absolute;bottom:10px;right:14px;font:normal bold 8px Arial,Sans-Serif!important;color:#666;text-shadow:0 1px 0 rgba(255,255,255,.1);text-decoration:none;" href="http://kalakaistory.blogspot.com" target="_blank">&#9658;KS</a></div></div>');
 
 var _results = document.getElementById('results');
 var _pagination = document.getElementById('pagination');
